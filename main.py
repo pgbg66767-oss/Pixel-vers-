@@ -22,6 +22,7 @@ INITIAL_EXTENSIONS = [
     "cogs.social_alerts",
     "cogs.welcome",
     "cogs.reaction_roles",
+    "cogs.panel",
 ]
 
 
@@ -56,3 +57,4 @@ async def main():
 if __name__ == "__main__":
     start_webapp(bot)  # lance le site (dashboard + API) sur le même Repl que le bot
     asyncio.run(main())
+    
