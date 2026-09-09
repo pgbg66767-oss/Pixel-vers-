@@ -1,4 +1,4 @@
-# Bot Discord — CODE3D (déploiement Railway)
+# Bot Discord — pixelvers (déploiement Railway)
 
 ## 1. Créer le projet sur Railway
 
